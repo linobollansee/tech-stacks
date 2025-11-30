@@ -115,29 +115,33 @@ Diese Sammlung enthält **17 ausführliche Walkthrough-Guides** auf Deutsch, die
 ### Für Anfänger
 ```
 Empfohlener Pfad:
-1. TypeScript Basics
-2. Next.js Basics
-3. Git & GitHub
-4. SQL & Datenbanken
-5. Web-APIs
+1. TypeScript Basics (Guide 01)
+2. Next.js Basics (Guide 02)
+3. Git & GitHub (Guide 03)
+4. SQL & Datenbanken (Guide 04)
+5. Docker & Testing (Guide 05)
+6. Web-APIs (Guide 06)
+7. WebSockets & SSE (Guide 07)
+8. Swagger & RegExp (Guide 08)
 ```
 
 ### Für Fortgeschrittene
 ```
 Fokusthemen:
-- Advanced TypeScript
-- CI/CD Workflows
-- Docker & Testing
-- LangChain & RAG-Systeme
+9. CI/CD Workflows (Guide 09)
+10. Advanced TypeScript (Guide 10)
+11. LangChain (Guide 11)
+12. Prompt Chaining (Guide 12)
+13. Agents & Memory (Guide 13)
+14. RAG-Systeme (Guide 14)
 ```
 
 ### Für Teams
 ```
 Team-relevante Guides:
-- Git & GitHub
-- Agile Arbeitsweisen
-- Teamprojekte
-- Code-Challenges
+15. Code-Challenges (Guide 15)
+16. Agile Arbeitsweisen (Guide 16)
+17. Teamprojekte (Guide 17)
 ```
 
 ## 💡 Struktur der Guides
